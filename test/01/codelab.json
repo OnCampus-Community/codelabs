@@ -1,0 +1,18 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2023-09-14T18:40:02+05:30",
+  "id": "01",
+  "duration": 1,
+  "title": "Trying Out",
+  "authors": "Deepraj Baidya",
+  "summary": "Test Codelab",
+  "source": "test_codelab.md",
+  "theme": "",
+  "status": null,
+  "category": null,
+  "tags": [],
+  "url": "01"
+}
